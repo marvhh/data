@@ -101,7 +101,8 @@ A links section *must* have:
 * A `website`, which:
 
   * *must* specify `url`, which is a common URL like
-    `https://www.awesomelan.example/`.
+    `https://www.awesomelan.example/` or
+    `https://www.awesomelan.example/parties/23`.
   * *can* specify `offline`, with a value of either `false` (the default) or
     `true`.
 
