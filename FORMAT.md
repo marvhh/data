@@ -35,7 +35,15 @@ A series *may* have:
 * `alternative_names`, which is a non-empty list of alternative names of the
   party series.
 
-Example of an entry:
+Minimal example of an entry:
+
+```toml
+[[series]]
+slug = "awesome-lan"
+name = "Awesome LAN"
+```
+
+Full example of an entry:
 
 ```toml
 [[series]]
