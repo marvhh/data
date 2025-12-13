@@ -16,3 +16,4 @@ longitude = 9.92247
 
 [links.website]
 url = "http://www.gxp.de/"
+offline = true
