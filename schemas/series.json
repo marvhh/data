@@ -10,10 +10,10 @@
           "slug": {
             "type": "string"
           },
-          "name": {
+          "title": {
             "type": "string"
           },
-          "alternative_names": {
+          "alternative_titles": {
             "type": "array",
             "items": {
               "type": "string"
@@ -54,7 +54,7 @@
         },
         "required": [
           "slug",
-          "name",
+          "title",
           "country_codes"
         ]
       }

@@ -28,11 +28,11 @@ A series *must* specify:
 * A `slug`, which is an identifier that can nicely be used in URLs and the
   filesystem. It may only contain lower-case latin characters, numbers, and
   dashes.
-* A `name`, which does not have the slug's limitations.
+* A `title`, which does not have the slug's limitations.
 
 A series *may* have:
 
-* `alternative_names`, which is a non-empty list of alternative names of the
+* `alternative_titles`, which is a non-empty list of alternative titles of the
   party series.
 * A `links` section; see below.
 
@@ -50,7 +50,7 @@ Minimal example of an entry:
 ```toml
 [[series]]
 slug = "awesome-lan"
-name = "Awesome LAN"
+title = "Awesome LAN"
 ```
 
 Full example of an entry:
@@ -58,8 +58,8 @@ Full example of an entry:
 ```toml
 [[series]]
 slug = "awesome-lan"
-name = "Awesome LAN"
-alternative_names = ["That Awesome LAN Party"]
+title = "Awesome LAN"
+alternative_titles = ["That Awesome LAN Party"]
 country_codes = ["ca"]
 
 [links.website]
@@ -171,8 +171,10 @@ url = "https://www.awesomelan.example/"
 ## Changelog
 
 
-### 0.10 (in preparation)
+### 0.10 (2025-12-13)
 
+* Renamed series property `name` to `title`.
+* Renamed series property `alternative_names` to `alternative_titles`.
 * Added optional links section for series.
 
 
