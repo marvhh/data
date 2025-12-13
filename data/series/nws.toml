@@ -2,3 +2,6 @@ slug = "nws"
 title = "NWS"
 alternative_titles = ["NetzWerkSession"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.nwsnet.de/"

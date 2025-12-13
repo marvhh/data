@@ -1,3 +1,7 @@
 slug = "gxp"
 title = "gXp"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.gxp.de/"
+offline = true

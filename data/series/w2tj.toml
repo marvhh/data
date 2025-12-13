@@ -2,3 +2,6 @@ slug = "w2tj"
 title = "W2tJ"
 alternative_titles = ["Welcome 2 the Jungle"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://w2tj.net/"

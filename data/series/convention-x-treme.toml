@@ -1,3 +1,6 @@
 slug = "convention-x-treme"
 title = "Convention-X-Treme"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.convention-x-treme.de/"

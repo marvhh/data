@@ -1,3 +1,6 @@
 slug = "bieberlan"
 title = "BieberLAN"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.bieberlan.de/"

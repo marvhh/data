@@ -1,3 +1,7 @@
 slug = "flashlight-network"
 title = "Flashlight-Network"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.flashlight-network.de/"
+offline = true

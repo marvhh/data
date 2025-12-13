@@ -1,3 +1,7 @@
 slug = "unitedlans"
 title = "unitedLANs"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.unitedlans.de/"
+offline = true

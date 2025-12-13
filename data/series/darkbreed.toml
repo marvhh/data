@@ -1,3 +1,7 @@
 slug = "darkbreed"
 title = "DarkBreed"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

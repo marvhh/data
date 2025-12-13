@@ -2,3 +2,6 @@ slug = "lan-team-invite"
 title = "LAN-Team - Invite"
 alternative_titles = ["LAN-Team - Invite Only"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.lan-team.de/"

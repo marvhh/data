@@ -1,3 +1,6 @@
 slug = "lanresort"
 title = "LANresort"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.lanresort.de/"

@@ -1,3 +1,6 @@
 slug = "house-of-lan"
 title = "House of LAN"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.house-of-lan.de/"

@@ -2,3 +2,6 @@ slug = "gsh-lan"
 title = "GSH-LAN"
 alternative_titles = ["GSH"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.gsh-lan.com/"

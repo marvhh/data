@@ -1,3 +1,6 @@
 slug = "quakecon"
 title = "QuakeCon"
 country_codes = ["us"]
+
+[links.website]
+url = "https://www.quakecon.org/"

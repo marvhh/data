@@ -1,3 +1,6 @@
 slug = "capital-lan"
 title = "Capital LAN"
 country_codes = ["us"]
+
+[links.website]
+url = "https://www.capitallan.com/"

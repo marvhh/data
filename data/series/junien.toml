@@ -1,3 +1,6 @@
 slug = "junien"
 title = "['ju:nien]"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.junien.de/"

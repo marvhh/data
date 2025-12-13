@@ -2,3 +2,6 @@ slug = "zockparade"
 title = "ZockParade"
 alternative_titles = ["ZP"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://netquarter.org/"

@@ -1,3 +1,6 @@
 slug = "rofl-lan"
 title = "Ro.Fl.-LAN"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.rofl-lan.de/"

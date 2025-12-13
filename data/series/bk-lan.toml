@@ -1,3 +1,6 @@
 slug = "bk-lan"
 title = "BK-LAN"
 country_codes = ["de"]
+
+[links.website]
+url = "https://bk-lan.de/"

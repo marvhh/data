@@ -1,3 +1,6 @@
 slug = "isle-of-lan"
 title = "Isle of LAN"
 country_codes = ["ch"]
+
+[links.website]
+url = "https://www.isleoflan.ch/"

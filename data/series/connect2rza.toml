@@ -1,3 +1,6 @@
 slug = "connect2rza"
 title = "connEcT2RZA"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.connect2rza.de/"

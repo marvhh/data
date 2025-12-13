@@ -1,3 +1,6 @@
 slug = "lock-and-load"
 title = "LOCK AND LOAD"
 country_codes = ["ch"]
+
+[links.website]
+url = "https://www.lockandload.ch/"

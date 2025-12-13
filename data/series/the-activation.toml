@@ -1,3 +1,7 @@
 slug = "the-activation"
 title = "The Activation"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.the-activation.de/"
+offline = true

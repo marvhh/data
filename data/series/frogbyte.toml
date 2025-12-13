@@ -1,3 +1,6 @@
 slug = "frogbyte"
 title = "Frogbyte LAN Party"
 country_codes = ["it"]
+
+[links.website]
+url = "https://frogbyte.it/"

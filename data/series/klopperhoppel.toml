@@ -1,3 +1,6 @@
 slug = "klopperhoppel"
 title = "Klopperhoppel"
 country_codes = ["de"]
+
+[links.website]
+url = "http://www.klopperhoppel.de/"

@@ -2,3 +2,6 @@ slug = "genial-verplant"
 title = "genial verpLANt"
 alternative_titles = ["total verpLANt"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://genial-verplant.de/"

@@ -2,3 +2,6 @@ slug = "northcon"
 title = "NorthCon"
 alternative_titles = ["Northern LAN Convention"]
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.northcon.de/"

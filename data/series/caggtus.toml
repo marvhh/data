@@ -1,3 +1,6 @@
 slug = "caggtus"
 title = "CAGGTUS"
 country_codes = ["de"]
+
+[links.website]
+url = "https://caggtus.de/"

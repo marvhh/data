@@ -1,3 +1,6 @@
 slug = "gamers-congress"
 title = "Gamers' Congress"
 country_codes = ["de"]
+
+[links.website]
+url = "https://www.gamers-congress.de/"
