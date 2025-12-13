@@ -17,3 +17,4 @@ longitude = 12.395663
 
 [links.website]
 url = "https://www.dreamhack-leipzig.de/"
+offline = true
