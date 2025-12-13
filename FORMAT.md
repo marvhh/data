@@ -21,7 +21,7 @@ Not every party belongs to a series, though! Some are just one-time events.
 ### Party Series
 
 Each party series should be defined in its own file, which should be named
-`<series slug>.toml`, in path `./data/series`.
+`<series slug>.toml`, in path [`./data/series`](./data/series).
 
 A series *must* specify:
 
@@ -74,7 +74,7 @@ Each party should be defined in its own file, which should be named `<party
 slug>.toml`.
 
 If the party is part of a series, it should be in path `./data/parties/<series
-slug>`; if it is not, it should be in `./data/parties`.
+slug>`; if it is not, it should be in [`./data/parties`](./data/parties).
 
 A party *must* have:
 
