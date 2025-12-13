@@ -177,7 +177,7 @@ url = "https://www.awesomelan.example/"
 
 ### 0.9 (2025-04-04)
 
-* Rename property `zip_code` to generic `postal_code` in section `location`.
+* Renamed property `zip_code` to generic `postal_code` in section `location`.
 
 
 ### 0.8 (2025-03-10)
