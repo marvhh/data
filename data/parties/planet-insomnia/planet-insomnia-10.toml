@@ -13,3 +13,7 @@ postal_code = "21218"
 street = "Am Göhlenbach 11"
 latitude = 53.38708
 longitude = 9.98044
+
+[links.website]
+url = "http://www.planet-insomnia.de/"
+offline = true
